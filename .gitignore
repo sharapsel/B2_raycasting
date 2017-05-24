@@ -286,3 +286,7 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+/B2_raycasting/B2_raycasting/file_host_0.png
+/B2_raycasting/B2_raycasting/file_host_1.png
+/B2_raycasting/B2_raycasting/file_host_2.png
+/B2_raycasting/B2_raycasting/file_host_3.png
